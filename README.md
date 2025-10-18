@@ -147,8 +147,8 @@ Before submitting to yukicoder, update the `language_id` in the `[submit]` secti
 [submit]
 kind = "file"
 path = "{{ src_path }}"
-# language_id = "4050" # Rust 1.42.0
 # language_id = "5054" # Rust 1.70.0
+# language_id = "6088" # Rust 1.89.0
 language_id = "rust" # for yukicoder
 ```
 
