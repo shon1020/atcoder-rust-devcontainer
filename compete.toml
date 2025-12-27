@@ -30,8 +30,9 @@ fn main() {
         a: [usize; n],
     }
 
-    println!("{:?}", a);
-}
+    let mut ans: usize = 0;
+
+    println!("{}", ans);}
 '''
 
 [template.new]
