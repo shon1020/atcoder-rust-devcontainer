@@ -32,7 +32,8 @@ fn main() {
 
     let mut ans: usize = 0;
 
-    println!("{}", ans);}
+    println!("{}", ans);
+}
 '''
 
 [template.new]
