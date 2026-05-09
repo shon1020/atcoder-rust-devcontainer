@@ -8,6 +8,7 @@
 
 ## 使用するコマンド
 すべてcontestディレクトリは配下のいずれかのディレクトリ内で実行する
+
 ```bash
 cargo compete test a
 cargo compete submit a 　// コンテスト中のみ可
