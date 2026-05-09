@@ -23,16 +23,13 @@ test-suite = "{{ manifest_dir }}/testcases/{{ bin_alias }}.yml"
 [template]
 src = '''
 use proconio::input;
+use itertools::Itertools;
 
 fn main() {
     input! {
         n: usize,
-        a: [usize; n],
+        a: usize,
     }
-
-    let mut ans: usize = 0;
-
-    println!("{}", ans);
 }
 '''
 
