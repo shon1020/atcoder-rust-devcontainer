@@ -16,8 +16,3 @@
 cargo compete test a
 cargo compete submit a 　// コンテスト中のみ可
 ```
-
-## 　ルール
-
-- 変更内容は最小限で収める
-- atcoderの問題対する質問の際にはその問題が書かれているサイトのURLをフェッチする
